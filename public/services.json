@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Cataract and Phaco Surgery",
+        "price": "15000",
+        "description": "A cataract is a clouding of the natural lens in the eye that affects vision.The lens is a clear part of the eye that helps to focus light, or an image, on the retina. The retina is the light sensitive tissue at the back of the eye. In a normal eye, light passes through the transparent lens to the retina. Once it reaches the retina, light is changed into nerve signals that are sent to the brain.",
+        "img": "https://dhakaeyecarehospital.org/image/a46c3-cataract-picture.jpg"
+    },
+    {
+        "id": 2,
+        "name": "LASIK & Refractive Surgery",
+        "price": "10000",
+        "description": "LASIK is a surgical procedure for correcting near sightedness (myopia), far sightedness (hyperopia) and cylindrical (Astigmatic) refractive errors. LASIK stands for Laser-Assisted in Situ Keratomileusis.During LASIK surgery, a flap is created in the outer layers of the cornea. The flap is hinged and lifted so the excimer laser can treat only the underlying layer of the cornea.",
+        "img": "https://dhakaeyecarehospital.org/image/6323f-lasik-picture.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Glaucoma  & Diseases",
+        "price": "13500",
+        "description": "Glaucoma is the term applied to a group of eye diseases that gradually result in loss of vision by permanently damaging the optic nerve, the nerve that transmits visual images to the brain. The leading cause of irreversible blindness, glaucoma often produces no symptoms until it is too late and vision loss has begun.",
+        "img": "https://dhakaeyecarehospital.org/image/ac7cb-speciality-services-picture-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cornea & External Disease",
+        "price": "12000",
+        "description": "Corneal and external diseases involve the cornea, anterior chamber of the eye, iris, lens, conjunctiva and eyelids, including cataracts; corneal allergies, infections and irregularities; refractive errors (nearsightedness, farsightedness and astigmatism); conjunctivitis (pink eye); dry eye; tear disorders; Keratoconus; Pterygium; Endophthalmitis; Fuchs Dystrophy and many others.",
+        "img": "https://dhakaeyecarehospital.org/image/b62ee-cornea-external-disease.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Vitreo-Retina Diseases",
+        "price": "11000",
+        "description": "The eye is like a camera with a lens in front and a film (retina) at the back. The cornea and lens in the front of the eye focus the rays of light onto the retina which then converts the image into electrical signals that are sent to the brain through the optic nerve.",
+        "img": "https://dhakaeyecarehospital.org/image/16764-vitreo-retinal.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Pediatric Ophthalmology",
+        "price": "13000",
+        "description": "The Pediatric Ophthalmology / Orthoptic / Adult Strabismus Department’s primary mission is to deliver the highest quality comprehensive eye care to children from birth through their teen years. The Department also delivers specialized eye care for adults with double vision (diplopia) related to strabismus and other disorders effecting binocular vision.",
+        "img": "https://dhakaeyecarehospital.org/image/62e47-pediatric-ophthalmology-and-squint.jpg"
+    }
+]
