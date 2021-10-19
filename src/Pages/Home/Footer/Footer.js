@@ -7,11 +7,11 @@ const Footer = () => {
                 <footer className="page-footer font-small blue pt-3">
                     <div className="container-fluid text-center text-md-left">
                         <div className="row">
-                            <div className="col-sm-4 col-md-4 mt-md-4">
+                            <div className="col-sm-6 col-md-6 mt-md-5">
                                 <p className="fw-bold text-uppercase fs-1">Youth Eye Hospital</p>
-                                <p className="fw-bold text-uppercase fs-4 bg-light">Eye Care, We care</p>
+                                <p className="fw-bold text-uppercase fs-4"><span className="bg-light rounded-1">Eye Care, We care</span></p>
                             </div>
-                            <div className="col-sm-4 col-md-4 mb-md-0 mb-3 mt-5">
+                            <div className="col-sm-3 col-md-3 mb-md-0 mb-3 mt-5">
                                 <h5 className="text-uppercase fw-bold">Follow Us:</h5>
                                 <ul className="list-unstyled">
                                     <li>
@@ -28,7 +28,7 @@ const Footer = () => {
                                     </li>
                                 </ul>
                             </div>
-                            <div className="col-sm-4 col-md-4 mb-md-0 mb-3 mt-5">
+                            <div className="col-sm-3 col-md-3 mb-md-0 mb-3 mt-5">
                                 <h5 className="text-uppercase fw-bold">Quick Links:</h5>
                                 <ul className="list-unstyled">
                                     <li>

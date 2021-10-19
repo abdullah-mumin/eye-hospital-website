@@ -2,13 +2,12 @@ import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 import useAuth from '../../../Hooks/useAuth';
-import Login from '../../Login/Login';
 
 const Header = () => {
     const { user, logOut } = useAuth();
     return (
         <div>
-            <Navbar bg="primary" variant="light">
+            <Navbar aria-controls="navbarscroll" bg="primary" variant="light">
                 <Container className="p-lg-3 p-md-3 p-sm-3 p-3">
                     <div className="col-lg-3 col-md-3 col-sm-6 col-3 text-start">
                         <Navbar.Brand>

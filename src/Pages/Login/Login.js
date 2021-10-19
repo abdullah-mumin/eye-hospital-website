@@ -22,24 +22,18 @@ const Login = () => {
             })
     }
 
-    // const haldleLoginWithEmailAndPassword = () => {
-    //     signInUsingEmailAndPassword()
-    //         .then(result => {
-    //             // history.push(redirect_uri);
-    //         })
-    // }
-
     const auth = getAuth();
     const handleLogin = e => {
         signInWithEmailAndPassword(auth, email, password)
             .then(result => {
+                history.push("/home");
                 setEmail(email);
                 setPassword(password);
-                console.log(email, password);
+                // console.log(email, password);
             })
-        // .catch(error => {
-        //     setError(error.message);
-        // })
+            .catch(error => {
+                setError(error.message);
+            })
         e.preventDefault();
     }
 

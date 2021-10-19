@@ -10,7 +10,8 @@ const AboutUs = () => {
             <div className="row mt-4">
                 <div className="col-lg-12 col-sm-12 col-md-12 col-12">
                     <div className="mb-4">
-                        <p className="fw-bold fs-2 text-success">About Youth Eye Hospital </p>
+                        <p className="fw-bold fs-1 text-success">About </p>
+                        <p className="fw-bold fs-2 text-success">Youth Eye Hospital </p>
                         <p className="container fs-5"><strong>Youth Eye Hospital Ltd. (YEH)</strong> was incorporated on 18th September, 2005.
                             As the eye care sector was growing rapidly in Bangladesh, a specialized hospital for the treatment of eye
                             related diseases was much needed. It is the best eye care institute of the country and coordinates the provision

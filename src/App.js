@@ -11,6 +11,7 @@ import Login from './Pages/Login/Login';
 import NotFound from './Pages/NotFound/NotFound';
 import PrivateRoute from './Pages/PrivateRoute/PrivateRoute';
 import Register from './Pages/Register/Register';
+import ServiceDetails from './Pages/ServicesDetails/ServiceDetails';
 
 function App() {
   return (
@@ -30,6 +31,9 @@ function App() {
             </Route>
             <PrivateRoute path="/branches">
               <Branches></Branches>
+            </PrivateRoute>
+            <PrivateRoute path="/servicesDetails">
+              <ServiceDetails></ServiceDetails>
             </PrivateRoute>
             <Route path="/about">
               <AboutUs></AboutUs>
