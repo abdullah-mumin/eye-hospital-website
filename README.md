@@ -1,6 +1,6 @@
 # Getting Started with Youth Eye Hospital website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Youth Eye Hospital Website:  https://youth-eye-hospital.netlify.app/
 
 ## Available Scripts
 
